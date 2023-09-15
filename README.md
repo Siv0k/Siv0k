@@ -1,16 +1,28 @@
-### Hi there 👋
+<p align="center">
+  <img src="your-profile-image.jpg" width="200" height="200" alt="Your Name">
+</p>
 
-<!--
-**Siv0k/Siv0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет, меня зовут Владислав!
 
-Here are some ideas to get you started:
+👨‍💻 Я фронтенд-разработчик с опытом в разработке веб-приложений с использованием технологий, таких как JavaScript, TypeScript, React и многих других.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Здесь на GitHub я делюсь своими проектами и исследованиями.
+
+## Мои навыки и инструменты
+
+- 💻 JavaScript, TypeScript
+- ⚛️ React, React Native
+- 🌐 HTML, CSS
+- 📦 Webpack, Vite
+- 🎨 Material UI
+- 🚀 Redux
+- 📱 Responsive Design
+
+## Связь
+
+📫 Вы можете связаться со мной через [Telegram](https://t.me/Siv0k).
+
+
+📄 Вы можете также посмотреть мое [резюме](..........) для получения более подробной информации о моем опыте и навыках.
+
+
