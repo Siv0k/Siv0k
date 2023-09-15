@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="left" height="200" width="200" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100"/>
+<img align="left" height="200" width="250" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100"/>
 
 # Hi, my name is Vladislav!
 
