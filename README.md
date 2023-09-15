@@ -1,16 +1,16 @@
 <br clear="both">
 
-<img align="left" height="200" width="250" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100"/>
+<img align="left" height="200" width="200" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100"/>
 
-# Hi, my name is Vladislav!
+# <p align= "center">Hi, my name is Vladislav!</p>
 
-👨‍💻 I am a beginner frontend developer with experience in developing web applications using technologies such as JavaScript, TypeScript, React and many others.
+<p align="center" >👨‍💻I am a beginner frontend developer with experience in developing web applications <br> 💻 using technologies such as JavaScript, TypeScript, React and many others.</p>
 
-🚀 Здесь на GitHub я делюсь своими проектами и исследованиями.
+<br clear="both">
 
-## Мои навыки и инструменты
-
-- 💻 JavaScript, TypeScript
+## <p>MY SKILLS</p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40" height="40"/>
 - ⚛️ React, React Native
 - 🌐 HTML, CSS
 - 📦 Webpack, Vite
