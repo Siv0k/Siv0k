@@ -1,6 +1,10 @@
-# Привет, меня зовут Владислав!
+<br clear="both">
 
-👨‍💻 Я фронтенд-разработчик с опытом в разработке веб-приложений с использованием технологий, таких как JavaScript, TypeScript, React и многих других.
+<img align="left" height="200" width="200" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100"/>
+
+# Hi, my name is Vladislav!
+
+👨‍💻 I am a beginner frontend developer with experience in developing web applications using technologies such as JavaScript, TypeScript, React and many others.
 
 🚀 Здесь на GitHub я делюсь своими проектами и исследованиями.
 
