@@ -76,7 +76,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Siv0k&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Siv0k&theme=shadow-blue&hide_border=true&mode=weekly" height="220" alt="streak graph"  />
 </div>
 
 ###
