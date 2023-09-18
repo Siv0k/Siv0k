@@ -82,7 +82,11 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Siv0k/count.svg?"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siv0k&layout=compact"/>
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Siv0k/count.svg?"  />
+</div>
